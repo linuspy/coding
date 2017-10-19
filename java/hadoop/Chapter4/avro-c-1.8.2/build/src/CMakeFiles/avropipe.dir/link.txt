@@ -1,0 +1,1 @@
+/bin/cc  -O2 -g -DNDEBUG    CMakeFiles/avropipe.dir/avropipe.o  -o avropipe -rdynamic libavro.a -ljansson -lz -llzma -lsnappy 

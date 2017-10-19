@@ -1,0 +1,1 @@
+/bin/cc  -O2 -g -DNDEBUG    CMakeFiles/avroappend.dir/avroappend.o  -o avroappend -rdynamic libavro.a -ljansson -lz -llzma -lsnappy 

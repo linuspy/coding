@@ -1,0 +1,1 @@
+/bin/cc  -O2 -g -DNDEBUG    CMakeFiles/test_interop_data.dir/test_interop_data.o  -o test_interop_data -rdynamic ../src/libavro.a -ljansson -lz -llzma -lsnappy 

@@ -1,0 +1,1 @@
+/bin/cc  -O2 -g -DNDEBUG    CMakeFiles/avrocat.dir/avrocat.o  -o avrocat -rdynamic libavro.a -ljansson -lz -llzma -lsnappy 

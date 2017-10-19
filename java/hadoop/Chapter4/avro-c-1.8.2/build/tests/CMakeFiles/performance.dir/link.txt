@@ -1,0 +1,1 @@
+/bin/cc  -O2 -g -DNDEBUG    CMakeFiles/performance.dir/performance.o  -o performance -rdynamic ../src/libavro.a -ljansson -lz -llzma -lsnappy 

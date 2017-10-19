@@ -1,0 +1,1 @@
+/bin/cc  -O2 -g -DNDEBUG    CMakeFiles/test_data_structures.dir/test_data_structures.o  -o test_data_structures -rdynamic ../src/libavro.a -ljansson -lz -llzma -lsnappy 

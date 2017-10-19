@@ -1,0 +1,1 @@
+/bin/cc  -O2 -g -DNDEBUG    CMakeFiles/test_avro_1572.dir/test_avro_1572.o  -o test_avro_1572 -rdynamic ../src/libavro.a -ljansson -lz -llzma -lsnappy 

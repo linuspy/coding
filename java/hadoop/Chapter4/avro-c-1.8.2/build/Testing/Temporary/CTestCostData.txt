@@ -1,0 +1,22 @@
+quickstop 1 0.082989
+test_data_structures 1 0.00465894
+test_avro_schema 1 0.00619602
+test_avro_schema_names 1 0.00445199
+test_avro_values 1 0.118655
+test_avro_968 1 0.00460696
+test_avro_984 1 0.00461793
+test_avro_1034 1 0.00469494
+test_avro_1084 1 0.00467801
+test_avro_1087 1 0.00462794
+test_avro_1165 1 0.00443101
+test_avro_1237 1 0.00431108
+test_avro_1238 1 0.00443196
+test_avro_1279 1 0.00447202
+test_avro_1405 1 0.004848
+test_avro_1572 1 0.00513315
+test_avro_data 1 0.0414581
+test_refcount 1 0.00452805
+test_cpp 1 0.00427794
+test_avro_1379 1 0.00474095
+test_avro_1691 1 0.00494194
+---

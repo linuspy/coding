@@ -1,0 +1,1 @@
+/bin/cc  -O2 -g -DNDEBUG    CMakeFiles/test_refcount.dir/test_refcount.o  -o test_refcount -rdynamic ../src/libavro.a -ljansson -lz -llzma -lsnappy 

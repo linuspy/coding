@@ -1,0 +1,1 @@
+/bin/cc  -O2 -g -DNDEBUG    CMakeFiles/generate_interop_data.dir/generate_interop_data.o  -o generate_interop_data -rdynamic ../src/libavro.a -ljansson -lz -llzma -lsnappy 
